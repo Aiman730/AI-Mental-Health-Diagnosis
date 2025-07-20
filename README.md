@@ -1,4 +1,4 @@
-## AI Mental Health Diagnosis System
+# AI Mental Health Diagnosis System
 
 A machine learning project that uses a Decision Tree Classifier to help diagnose potential mental health conditions based on user responses and symptoms.
 
