@@ -55,6 +55,9 @@ This AI-based project is designed to assist in the early identification of menta
 • Build a web or mobile interface
 
 
+
 Developed by
+
 Aiman Azhar
+
 GitHub: Aiman730
