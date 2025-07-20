@@ -9,33 +9,49 @@ This AI-based project is designed to assist in the early identification of menta
 👉 Tech Stack
 
 • Language: Python
+
 • Notebook: Jupyter
+
 • Libraries: Pandas, NumPy, Matplotlib, Scikit-learn
+
 • Algorithm: Decision Tree Classifier
 
 👉 How to Run This Project
 
 1. Clone the repository
+   
    git clone https://github.com/Aiman730/AI-Mental-Health-Diagnosis.git
-2. Navigate to the project directory
+   
+3. Navigate to the project directory
+   
    cd "AI- Mental health Diagnosis Monitoring"
-3. Open the notebook
+   
+5. Open the notebook
+   
    jupyter notebook
-4. Run the notebook
+   
+7. Run the notebook
+   
    • Open AI- Mental health Diagnosis Monitoring.ipynb
+   
    • Click Run All to execute all cells
 
 👉 Features
 
 • Input symptoms like depression, anxiety, panic attacks, etc.
+
 • Predicts likelihood of mental illness
+
 • Shows accuracy score
+
 • Visualizes the decision tree structure
 
 👉 Future Enhancements
 
 • Add more ML algorithms (Random Forest, SVM)
+
 • Improve dataset with more real-world data
+
 • Build a web or mobile interface
 
 
